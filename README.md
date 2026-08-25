@@ -2,10 +2,12 @@
 
 In case you come from [@mcgill-sfeng](https://github.com/mcgill-sfeng), yes that's also me.
 
+(all emojis and bolding on this page are human-generated)
+
 ### About me
 
-- I'm currently both a **Master Student** and **Teaching Assistant** in Electrical and Computer Engineering at McGill University 🎓
-- My area of interest is **large generative models**, specifically enhancing code generation abilities of LLMs 🤖
+- I'm currently both a **PhD Student** and **Teaching Assistant** in Electrical and Computer Engineering at McGill University 🎓
+- My area of interest is **software engineering** and **large generative models**, specifically enhancing code generation abilities of LLMs 🤖
 - My long-term vision: making software creation accessible to everyone, regardless of technical background ✨
 - Apart from my research, I'm also a fullstack software developer experienced in C#, Java, JavaScript/TypeScript and Python 💻
 
